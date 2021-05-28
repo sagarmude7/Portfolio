@@ -14,11 +14,11 @@ function Particle() {
             },
           },
           size: {
-            value: 1.5,
+            value: 2.5,
             random: true,
             anim: {
               speed: 4,
-              size_min: 0.3,
+              size_min: 0.7,
             },
           },
           line_linked: {

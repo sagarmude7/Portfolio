@@ -11,7 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sagar Mude </span>
             from <span className="purple"> Wardha, India.</span>
             <br />I am currently 2nd year B.Tech student of Information
-            Technology at VJTI, Mumbai
+            Technology at VJTI, Mumbai.
+            <br />
+            I am looking forward to gain competency and exposure in Web
+            development, Machine Learning, Blockchain and Digital Marketing.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -28,7 +31,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ marginBlockEnd: 0, color: "#FF85A3" }}>
+          <p style={{ marginBlockEnd: 0, color: "#14FFEC", opacity: 0.7 }}>
             "Strive to build things that make a difference!"{" "}
           </p>
           <footer className="blockquote-footer">Sagar</footer>
