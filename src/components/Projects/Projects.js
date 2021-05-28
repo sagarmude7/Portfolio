@@ -24,9 +24,8 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
-              isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="BookXchanger"
+              description="We try to create a platform where you can buy or sell second-hand books without any difficulty. So we try to create a website called BookXchanger with almost all the features that can solve your problems while buying or selling books. We have used MERN stack to make this project."
               link="https://github.com/soumyajit4419/Chatify"
             />
           </Col>
@@ -34,30 +33,27 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
-              isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              title="Agriculture Analysis of India"
+              description="I have created this project for the final submission of IGT. So basically this is a website which uses different data like crop, rainfall, soil and underground water in India. We have use QGIS software to map tha data on map. And then using HTML, CSS and Javascript we mapped it on website. So using this website we try to make analysis of crops in India."
+              link="https://github.com/sagarmude7/IGT_Project_Agriculture_India"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
-              isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              link="https://github.com/soumyajit4419/Editor.io"
+              title="Youtube Clone"
+              description="I have created this project for my Open Source submission. This webste is basically the frontend clone of Youtube which uses Youtube API to fetch videos from Youtube."
+              link="https://github.com/sagarmude7/Youtube-Clone"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={suicide}
-              isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="Mysuru Tourism Website"
+              description="I have created this website for DSC-WOW Hackathon. This website is created with basic HTML, CSS and JavaScript. This website helps to increase tourism in Mysore."
+              link="https://github.com/sagarmude7/DSCWOW_Mysuru-website"
             />
           </Col>
 
