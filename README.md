@@ -2,7 +2,7 @@
   Portfolio Website
 </h2>
 <div align="center">
-  <img alt="Demo" src="./images/readme-img.png" width="500" height="600" />
+  <img alt="Demo" src="./images/readme-img.png" width="1500" height="1200" />
 </div>
 <br/>
 
