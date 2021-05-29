@@ -1,7 +1,9 @@
 <h2 align="center">
   Portfolio Website
 </h2>
-
+<div align="center">
+  <img alt="Demo" src="./images/readme-img.png" />
+</div>
 <br/>
 
 ## Built With
