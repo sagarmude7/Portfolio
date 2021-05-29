@@ -4,7 +4,6 @@
 <div align="center">
   <img alt="Demo" src="./images/readme-img.png"  />
 </div>
-<br/>
 
 ## Built With
 
