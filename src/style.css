@@ -409,6 +409,10 @@ html {
   padding-left: 15px;
 }
 
+.social-icons:hover {
+  color: #14ffec;
+}
+
 .icon-colour {
   color: #14ffec !important;
 }
@@ -539,7 +543,7 @@ html {
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 3px 4px 3px 2px #002724;
+  box-shadow: 2px 2px 2px 2px #002724;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
@@ -553,10 +557,9 @@ html {
 .tech-icons:hover {
   transform: scale(1.05) !important;
   overflow: hidden !important;
-  border: 2.2px solid #14ffec !important;
+  border: 3px solid #14ffec !important;
   color: #14ffec;
-  box-shadow: 3px !important;
-  text-shadow: 0 0 2px #002724;
+  box-shadow: 2px 2px 2px 2px #002724 !important;
 }
 .tech-icon-images {
   padding: 20px !important;

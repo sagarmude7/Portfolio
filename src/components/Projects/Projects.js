@@ -43,7 +43,7 @@ function Projects() {
             <ProjectCard
               imgPath={youtube}
               title="Youtube Clone"
-              description="I have created this project for my Open Source submission. This webste is basically the frontend clone of Youtube which uses Youtube API to fetch videos from Youtube."
+              description="I have created this project for my Open Source submission. This webste is basically the frontend clone of Youtube which uses Youtube API to fetch videos from Youtube. I have created this project using React, Redux and Firebase."
               link="https://github.com/sagarmude7/Youtube-Clone"
             />
           </Col>
@@ -52,7 +52,7 @@ function Projects() {
             <ProjectCard
               imgPath={mysuru}
               title="Mysuru Tourism Website"
-              description="I have created this website for DSC-WOW Hackathon. This website is created with basic HTML, CSS and JavaScript. This website helps to increase tourism in Mysore."
+              description="I have created this website for DSC-WOW Hackathon. This website is created with basic HTML, CSS and JavaScript. This website helps to increase tourism in Mysore by featuring all the toursits spots."
               link="https://github.com/sagarmude7/DSCWOW_Mysuru-website"
             />
           </Col>

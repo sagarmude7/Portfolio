@@ -11,10 +11,14 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sagar Mude </span>
             from <span className="purple"> Wardha, India.</span>
             <br />I am currently 2nd year B.Tech student of Information
-            Technology at VJTI, Mumbai.
-            <br />
-            I am looking forward to gain competency and exposure in Web
-            development, Machine Learning, Blockchain and Digital Marketing.
+            Technology at VJTI, Mumbai. I'm{" "}
+            <b className="purple"> Web developer</b> and
+            <b className="purple"> Competative Programming enthusiast.</b>
+            <br />I am looking forward to gain competency and exposure in{" "}
+            <b className="purple">
+              Web development, Machine Learning, Blockchain and Digital
+              Marketing.
+            </b>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,7 +28,7 @@ function AboutCard() {
               <ImPointRight /> Digital Marketing
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listening music
+              <ImPointRight /> Listening Music
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
