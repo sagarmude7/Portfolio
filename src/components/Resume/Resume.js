@@ -13,7 +13,7 @@ function Resume() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://drive.google.com/file/d/1E_B0lGvM10_GEVeCciez-2h_A4XZm7pi/view?usp=sharing"
+            href="https://drive.google.com/file/d/1yfnOv0TeJwAtWOlwWXdGLQ2ptEWKrXDZ/view?usp=sharing"
             target="_blank"
           >
             <AiOutlineDownload />
@@ -78,7 +78,7 @@ function Resume() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://drive.google.com/file/d/1E_B0lGvM10_GEVeCciez-2h_A4XZm7pi/view?usp=sharing"
+            href="https://drive.google.com/file/d/1yfnOv0TeJwAtWOlwWXdGLQ2ptEWKrXDZ/view?usp=sharing"
             target="_blank"
           >
             <AiOutlineDownload />
