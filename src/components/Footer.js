@@ -65,14 +65,7 @@ function Footer() {
           </ul>
         </Col>
       </Row>
-      <h1 style={{ color: "white", textAlign: "center" }}>
-        Design Template by{" "}
-        <a
-          style={{ color: "white" }}
-        >
-          Soumyajit Behera
-        </a>{" "}
-      </h1>
+      
     </Container>
   );
 }
