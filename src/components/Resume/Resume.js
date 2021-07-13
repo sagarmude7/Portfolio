@@ -50,7 +50,7 @@ function Resume() {
             <Resumecontent
               title="B.Tech in Information Technology [VJTI, Mumbai] "
               date="2019 - Present"
-              content={[`CGPA: 7.95 (Till 3rd Sem)`]}
+              content={[`CGPA: 8.13 (Till 4th Sem)`]}
             />
             <Resumecontent
               title="12th BOARD [Dr. Babasaheb Ambedkar College, Nagpur]"
@@ -66,8 +66,9 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                "Higgest rating on Codechef 1500",
+                "Higgest rating on Codechef 1627",
                 "Completed 30 days of Google Cloud Program",
+                "Udacity and AWS ML Scholarship Recipient"
                 "Event Manager of Culturul Fest(Pratibimb)",
                 "Participant in DSC-WOW Hackathon 2020",
                 "Student Volunteer at ISRO, IMD, LIGO and BARC exhibition",
