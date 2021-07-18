@@ -68,7 +68,7 @@ function Resume() {
               content={[
                 "Higgest rating on Codechef 1627",
                 "Completed 30 days of Google Cloud Program",
-                "Udacity and AWS ML Scholarship Recipient"
+                "Udacity and AWS ML Scholarship Recipient",
                 "Event Manager of Culturul Fest(Pratibimb)",
                 "Participant in DSC-WOW Hackathon 2020",
                 "Student Volunteer at ISRO, IMD, LIGO and BARC exhibition",

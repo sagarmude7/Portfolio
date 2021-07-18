@@ -16,8 +16,7 @@ function AboutCard() {
             <b className="purple"> Competative Programming enthusiast.</b>
             <br />I am looking forward to gain competency and exposure in{" "}
             <b className="purple">
-              Web development, Machine Learning, Blockchain and Digital
-              Marketing.
+              Web development, Machine Learning and Digital Marketing.
             </b>
             <br />
             <br />
