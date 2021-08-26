@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
+import ResumePdf from "../../Assets/Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
@@ -11,13 +12,9 @@ function Resume() {
       <Particle />
       <Container>
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button
-            variant="primary"
-            href="https://drive.google.com/file/d/1O3R8l8gr5CatDf_sX3j8fqr4SlBe0i3X/view?usp=sharing"
-            target="_blank"
-          >
+          <Button variant="primary" href={ResumePdf} target="_blank">
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Resume
           </Button>
         </Row>
         <Row className="resume">
@@ -77,13 +74,9 @@ function Resume() {
           </Col>
         </Row>
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button
-            variant="primary"
-            href="https://drive.google.com/file/d/1O3R8l8gr5CatDf_sX3j8fqr4SlBe0i3X/view?usp=sharing"
-            target="_blank"
-          >
+          <Button variant="primary" href={ResumePdf} target="_blank">
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Resume
           </Button>
         </Row>
       </Container>
