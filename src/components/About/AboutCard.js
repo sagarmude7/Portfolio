@@ -13,10 +13,10 @@ function AboutCard() {
             <br />I am currently 3rd year B.Tech student of Information
             Technology at VJTI, Mumbai. I'm{" "}
             <b className="purple"> Web developer</b> and
-            <b className="purple"> Competative Programming enthusiast.</b>
+            <b className="purple"> Machine Learing enthusiast.</b>
             <br />I am looking forward to gain competency and exposure in{" "}
             <b className="purple">
-              Web development, Machine Learning and Digital Marketing.
+              Web development, Machine Learning, Testing and Digital Marketing.
             </b>
             <br />
             <br />
@@ -24,13 +24,14 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Digital Marketing
+              <ImPointRight /> Chess
             </li>
             <li className="about-activity">
               <ImPointRight /> Listening Music
             </li>
             <li className="about-activity">
-              <ImPointRight /> Chess
+              <ImPointRight />
+              Digital Marketing
             </li>
           </ul>
 

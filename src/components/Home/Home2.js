@@ -28,15 +28,17 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  C++, Javascript, Python and MERN stack.{" "}
+                  C++, Java, Javascript, Pythonm Testing and MERN stack.{" "}
                 </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">
+                  Web Technologies and Products, Machine Learning{" "}
+                </b>{" "}
+                and also in areas related to{" "}
                 <b className="purple">Digital Marketing.</b>
               </i>
               <br />
@@ -107,7 +109,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/SAGARMUDE1"
+                  href="https://twitter.com/sagarmude7"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
